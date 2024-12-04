@@ -1,3 +1,4 @@
+Results Using CMD :![image](https://github.com/user-attachments/assets/61314f1f-95c0-4fd0-961d-3c8151954c00)
 ### README File for Diabetes Prediction Model
 
 ---
